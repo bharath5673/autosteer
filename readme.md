@@ -19,7 +19,6 @@ Download the dataset at [here](https://github.com/SullyChen/driving-datasets) an
 1) Network Used- Convolutional Network
 2) Inspiration - End to End Learning for Self-Driving Cars by Nvidia
 
-If you face any problem, kindly raise an issue
 
 ### Procedure
 
